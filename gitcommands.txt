@@ -1,0 +1,9 @@
+COMMANDS
+
+:cd "directory path"  (to enter the path)
+
+GIT COMANDS
+:git clone "link" (enter the link from git hub/to clone the repository link)
+:git pull "link"  (enter the link from git hub/to pull the repository link)
+:git status (to check the status of repository)
+:git add --all (to ad all files in repository)
